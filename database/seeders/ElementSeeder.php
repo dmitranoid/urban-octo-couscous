@@ -1,0 +1,23 @@
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Seeder;
+
+class ElementSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     */
+
+    private array $elements = [
+
+
+    ];
+
+    public function run(): void
+    {
+        //
+    }
+}
